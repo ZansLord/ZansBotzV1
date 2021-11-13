@@ -277,6 +277,7 @@ return`
  ▢  : Vean
  ▢  : Diel
  ▢  : Penyedia Api & Module
+ ▢  : ZansLord
 
 `
 }
