@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/ZansLord/ZansBotzV1"><img title="Stars" src="https://img.shields.io/github/stars/Zanslord/ZansBotzV1?color=red&style=flat-square" /></a>
-  <a href="https://github.com/ZansLord/ZansBotzV1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZansLord/ZansBotzV1color=red&style=flat-square" /></a>
+  <a href="https://github.com/ZansLord/ZansBotzV1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZansLord/ZansBotzV1?color=red&style=flat-square" /></a>
   <a href="https://github.com/ZansLord/ZansBotzV1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ZansLord/ZansBotzV1?label=watchers&color=blue&style=flat-square" /></a> <br>
   <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" /></a>
   <img src="https://img.shields.io/node/v/@open-wa/wa-automate" />
