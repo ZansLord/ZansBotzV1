@@ -377,6 +377,7 @@ return`
 *│* • Fernazer
 *│* • X - Dev Team
 *│* • XChillDs & Yuzu
+*│* • Zanslord
 *│*
 *╰────────────⦁*`
 }
