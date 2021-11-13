@@ -9,7 +9,7 @@
 
 <h3 align="center">Made with ❤️ by</h3>
 <p align="center">
-  <a href="https://github.com/ZansLord"><img src"https://i.ibb.co/XyChcGQ/20211102-192101.jpg" height="128" width="128" /></a>
+  <a href="https://github.com/ZansLord"><img src"https://i.ibb.co/QQDXr17/20211031-234304-1-3.jpg" height="128" width="128" /></a>
   <a href="https://github.com/hexagonz"><img src="https://i.ibb.co/LhCtVR1/20211108-163050.jpg" height="128" width="128" /></a>
   <a href="https://github.com/naylachan"><img src="https://i.ibb.co/T2gyJhn/20211014-163216-transcpr.jpg" height="128" width="128" /></a>
 </p>
