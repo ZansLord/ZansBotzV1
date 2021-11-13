@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images5.alphacoders.com/911/911614.png" alt="ZansBotz" width="500" />
+<img src="https://i.ibb.co/QQDXr17/20211031-234304-1-3.jpg" alt="ZansBotz" width="500" />
 
 # **ZansBotz**
 
@@ -9,9 +9,9 @@
 
 <h3 align="center">Made with ❤️ by</h3>
 <p align="center">
-  <a href="https://github.com/ZansLord"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
-  <a href="https://github.com/AlvioAdjiJanuar"><img src="https://avatars2.githubusercontent.com/u/68207798?s=400&u=29439908cd661d11443391cb74f5b07267b71117&v=4" height="128" width="128" /></a>
-  <a href="https://github.com/VideFrelan"><img src="https://avatars1.githubusercontent.com/u/76523793?s=400&u=365f732cd3fc09ce75f6556715a00386005db57c&v=4" height="128" width="128" /></a>
+  <a href="https://github.com/ZansLord"><img src"https://i.ibb.co/XyChcGQ/20211102-192101.jpg" height="128" width="128" /></a>
+  <a href="https://github.com/hexagonz"><img src="https://i.ibb.co/LhCtVR1/20211108-163050.jpg" height="128" width="128" /></a>
+  <a href="https://github.com/naylachan"><img src="https://i.ibb.co/T2gyJhn/20211014-163216-transcpr.jpg" height="128" width="128" /></a>
 </p>
 
 <p align="center">
@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZansLord/ZansBotz"><img title="Stars" src="https://img.shields.io/github/stars/SlavyanDesu/BocchiBot?color=red&style=flat-square" /></a>
-  <a href="https://github.com/ZansLord/ZansBotz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SlavyanDesu/BocchiBot?color=red&style=flat-square" /></a>
-  <a href="https://github.com/ZansLord/ZansBotz/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SlavyanDesu/BocchiBot?label=watchers&color=blue&style=flat-square" /></a> <br>
+  <a href="https://github.com/ZansLord/ZansBotzV1"><img title="Stars" src="https://img.shields.io/github/stars/SlavyanDesu/BocchiBot?color=red&style=flat-square" /></a>
+  <a href="https://github.com/ZansLord/ZansBotzV1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SlavyanDesu/BocchiBot?color=red&style=flat-square" /></a>
+  <a href="https://github.com/ZansLord/ZansBotzV1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SlavyanDesu/BocchiBot?label=watchers&color=blue&style=flat-square" /></a> <br>
   <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" /></a>
   <img src="https://img.shields.io/node/v/@open-wa/wa-automate" />
   <img">Installation</a> •
-  <a href="https://github.com/ZansLord/ZansBotz#features">Features</a> •
-  <a href="https://github.com/ZansLord/ZansBotz#thanks-to">Thanks to</a> •
+  <a href="https://github.com/ZansLord/ZansBotzV1#features">Features</a> •
+  <a href="https://github.com/ZansLord/ZansBotzV1#thanks-to">Thanks to</a> •
 
 
 <h4 align="center">
@@ -44,8 +44,8 @@
 # Installation
 ## 📝 Cloning this repo
 ```cmd
-> git clone https://github.com/ZansLord/ZansBotz.git
-> cd ZansBotz
+> git clone https://github.com/ZansLord/ZansBotzV1.git
+> cd ZansBotzV1
 ```
 
 ## ✍️ Editing the file
