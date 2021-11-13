@@ -27,6 +27,7 @@ return`
 *│*   X-Dev Team
 *│*   Yudha perdana
 *│*   Xchilds
+*│*   ZansLord
 *│*
 *╰────────────[*`
 }
